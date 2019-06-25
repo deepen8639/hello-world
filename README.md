@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+こんにちは
+
+法律を勉強しています
